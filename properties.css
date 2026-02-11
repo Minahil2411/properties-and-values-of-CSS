@@ -1,0 +1,25 @@
+<html>
+    <header>
+        <title>
+            Properties of CSS
+        </title>
+        <style>
+            #p1{color:rgb(223, 130, 130);
+             font-size:large}
+        </style>
+        <link rel="stylesheet" href="properties.css">
+    </header>
+    <body>
+        <h1 style="color:rgb(51, 139, 110)">Web Development</h1>
+        <p id="p1">
+            Web development is the process of creating, building, and maintaining websites and web applications that run online, involving front-end (client-side), back-end (server-side), and full-stack development.<br>
+            It uses languages like HTML, CSS, and JavaScript to ensure user-friendly, responsive, and functional digital experiences. 
+        </p>
+        <h1>The Development Process</h1>
+        <p>
+            Web development typically follows a structured lifecycle:<br>
+            planning and strategy, design (wireframing), development (coding), testing and quality assurance, and finally, deployment and ongoing maintenance. 
+        </p>
+
+    </body>
+</html>
